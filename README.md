@@ -51,5 +51,6 @@ login to shell
 ```
 
 Credits to the following projects:
-https://github.com/ejtraderLabs/ejtraderMT-Docker : for the basis of the Alpine, Window Manager, Wine and Metatrader image
+https://github.com/ejtraderLabs/ejtraderMT-Docker : for the basis of the Alpine, Window Manager, Wine and Metatrader image  
+
 https://github.com/darwinex/dwxconnect : for the basis of the EA to interface to MT5 from other programming languagues
